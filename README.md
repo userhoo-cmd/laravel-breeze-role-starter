@@ -175,6 +175,5 @@ Let customers scan a QR code to view the digital menu on their phones. This cont
 
 ---
 
-Khmernokor POS is your complete solution for managing restaurant operations—from order taking and kitchen coordination to payment and reporting.
 
-🔗 [Explore more at pos.khmernokor.com](https://pos.khmernokor.com)
+
